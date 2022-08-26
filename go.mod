@@ -1,4 +1,4 @@
-module github.com/heroiclabs/nakama-unreal
+module github.com/Atuuh/nakama-project-template
 
 go 1.19
 
